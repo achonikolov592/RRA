@@ -26,25 +26,41 @@ func decrypt(dirToDecrypt string, c cipher.AEAD, wherePartsAreEncryptedInLexical
 		return nil
 	})
 	if err != nil {
+<<<<<<< HEAD
 		helpers.WriteLog(nameOfLogFile, err.Error(), 1)
+=======
+		helpers.WriteLog(nameOfLogFile, "Error: "+err.Error())
+>>>>>>> 7fc80a6796b63203067b2e2e7540726a00337350
 		os.Exit(4)
 	}
 
 	for _, file := range filesInDir {
 		info, err := os.Stat(file)
 		if err != nil {
+<<<<<<< HEAD
 			helpers.WriteLog(nameOfLogFile, err.Error(), 1)
+=======
+			helpers.WriteLog(nameOfLogFile, "Error: "+err.Error())
+>>>>>>> 7fc80a6796b63203067b2e2e7540726a00337350
 			os.Exit(5)
 		}
 
 		if !(info.IsDir()) {
 			if err != nil {
+<<<<<<< HEAD
 				helpers.WriteLog(nameOfLogFile, err.Error(), 1)
+=======
+				helpers.WriteLog(nameOfLogFile, "Error: "+err.Error())
+>>>>>>> 7fc80a6796b63203067b2e2e7540726a00337350
 				os.Exit(6)
 			}
 			encryptedText, err := os.ReadFile(file)
 			if err != nil {
+<<<<<<< HEAD
 				helpers.WriteLog(nameOfLogFile, err.Error(), 1)
+=======
+				helpers.WriteLog(nameOfLogFile, "Error: "+err.Error())
+>>>>>>> 7fc80a6796b63203067b2e2e7540726a00337350
 				os.Exit(7)
 			}
 			non, text := encryptedText[wherePartsAreEncryptedInLexicalOrder[whichIteration].whereToStart:wherePartsAreEncryptedInLexicalOrder[whichIteration].whereToStart+int64(c.NonceSize())], encryptedText[wherePartsAreEncryptedInLexicalOrder[whichIteration].whereToStart+int64(c.NonceSize()):wherePartsAreEncryptedInLexicalOrder[whichIteration].whereToStart+wherePartsAreEncryptedInLexicalOrder[whichIteration].howMuchIsEncrypted]
@@ -58,11 +74,19 @@ func decrypt(dirToDecrypt string, c cipher.AEAD, wherePartsAreEncryptedInLexical
 
 			err = os.WriteFile(file, finaltext, 0666)
 			if err != nil {
+<<<<<<< HEAD
 				helpers.WriteLog(nameOfLogFile, err.Error(), 1)
 				os.Exit(8)
 			}
 			whichIteration++
 			helpers.WriteLog(nameOfLogFile, "Decrypted: "+file, 2)
+=======
+				helpers.WriteLog(nameOfLogFile, "Error: "+err.Error())
+				os.Exit(8)
+			}
+			whichIteration++
+			helpers.WriteLog(nameOfLogFile, "Decrypted: "+file)
+>>>>>>> 7fc80a6796b63203067b2e2e7540726a00337350
 
 		} else {
 			decrypt(info.Name(), c, wherePartsAreEncryptedInLexicalOrder, whichIteration, nameOfLogFile)
@@ -75,7 +99,11 @@ func DecryptDir(dirToDecrypt string, nameOfLogFile string, nameOfEncryptionInfoF
 	var values []WhereIsEncrypted
 	EncryptionInfo, err := os.ReadFile(nameOfEncryptionInfoFile)
 	if err != nil {
+<<<<<<< HEAD
 		helpers.WriteLog(nameOfLogFile, err.Error(), 1)
+=======
+		helpers.WriteLog(nameOfLogFile, "Error3: "+err.Error())
+>>>>>>> 7fc80a6796b63203067b2e2e7540726a00337350
 	}
 
 	fileSet := token.NewFileSet()
@@ -106,13 +134,21 @@ func DecryptDir(dirToDecrypt string, nameOfLogFile string, nameOfEncryptionInfoF
 
 	block, _ := aes.NewCipher(key)
 	if err != nil {
+<<<<<<< HEAD
 		helpers.WriteLog(nameOfLogFile, err.Error(), 1)
+=======
+		helpers.WriteLog(nameOfLogFile, "Error: "+err.Error())
+>>>>>>> 7fc80a6796b63203067b2e2e7540726a00337350
 		os.Exit(2)
 	}
 
 	c, err := cipher.NewGCM(block)
 	if err != nil {
+<<<<<<< HEAD
 		helpers.WriteLog(nameOfLogFile, err.Error(), 1)
+=======
+		helpers.WriteLog(nameOfLogFile, "Error: "+err.Error())
+>>>>>>> 7fc80a6796b63203067b2e2e7540726a00337350
 		os.Exit(3)
 	}
 

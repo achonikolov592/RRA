@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 [ERROR]: exit status 8 from ArchiveFiles.exe AT 10 Jan 24 10:41 GMT
 [ERROR]: exit status 8 from ArchiveFiles.exe AT 10 Jan 24 10:42 GMT
 [ERROR]: exit status 8 from ArchiveFiles.exe AT 10 Jan 24 10:43 GMT
@@ -33,3 +34,7 @@
 [ERROR]: fork/exec C:/Users/achon/OneDrive/Desktop/diplomna1/RRA/EncryptDecryptDirRecursive/EncryptDecryptDirRecursive.exe: Operation did not complete successfully because the file contains a virus or potentially unwanted software. from EncryptDecryptDirRecursive.exe AT 11 Jan 24 07:05 GMT
 [ERROR]: exit status 8 from SecureDeleteFiles.exe AT 11 Jan 24 07:06 GMT
 [ERROR]: fork/exec C:/Users/achon/OneDrive/Desktop/diplomna1/RRA/ServiceCreation/ServiceCreation.exe: The requested operation requires elevation. from ServiceCreation.exe AT 11 Jan 24 07:06 GMT
+=======
+
+Error: exit status 2
+>>>>>>> 7fc80a6796b63203067b2e2e7540726a00337350

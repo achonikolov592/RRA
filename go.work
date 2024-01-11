@@ -9,6 +9,7 @@ use (
 	./EncryptDecryptDirRecursivePartially
 	./EncryptDecryptDirRecursivePartially/Decrypt
 	./EncryptDecryptDirRecursivePartially/Encrypt
+<<<<<<< HEAD
 	./FileObfuscation
 	./GetSysInfo
 	./MaliciousPayloadDownload
@@ -17,6 +18,11 @@ use (
 	./SecureDeleteFiles
 	./SecureDeleteFiles/SecureDeleteFile
 	./ServiceCreation
+=======
+	./MaliciousPayloadDownload
+	./SecureDeleteFiles
+	./SecureDeleteFiles/SecureDeleteFile
+>>>>>>> 7fc80a6796b63203067b2e2e7540726a00337350
 	./StartupFolderNewFile
 	./StartupFolderNewFile/encr
 	./helpers
