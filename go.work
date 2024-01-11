@@ -1,0 +1,24 @@
+go 1.21.5
+
+use (
+	./ArchiveFiles
+	./Eicar
+	./EncryptDecryptDirRecursive
+	./EncryptDecryptDirRecursive/Decrypt
+	./EncryptDecryptDirRecursive/Encrypt
+	./EncryptDecryptDirRecursivePartially
+	./EncryptDecryptDirRecursivePartially/Decrypt
+	./EncryptDecryptDirRecursivePartially/Encrypt
+	./FileObfuscation
+	./GetSysInfo
+	./MaliciousPayloadDownload
+	./PrivEsc
+	./ProHoll
+	./SecureDeleteFiles
+	./SecureDeleteFiles/SecureDeleteFile
+	./ServiceCreation
+	./StartupFolderNewFile
+	./StartupFolderNewFile/encr
+	./helpers
+	./main
+)

@@ -1,0 +1,97 @@
+
+Strating test: EncryptDecryptDir
+
+Start creating test files
+
+Error: mkdir C:/Users/achon/OneDrive/Desktop/diplomna1/RRA/EncryptDirRecursive/testfiles: The system cannot find the path specified.
+
+Strating test: EncryptDecryptDir
+
+Start creating test files
+
+Starting encryption
+
+Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursive\testfiles\a.txt
+
+Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursive\testfiles\sub\b.txt
+
+Ending encryption
+
+Endinging test: EncryptDecryptDir
+
+Strating test: EncryptDecryptDir
+
+Start creating test files
+
+Starting encryption
+
+Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursive\testfiles\a.txt
+
+Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursive\testfiles\sub\b.txt
+
+Ending encryption
+
+Endinging test: EncryptDecryptDir
+[INFO]: Strating test: EncryptDecryptDir AT 10 Jan 24 10:35 GMT
+[INFO]: Start creating test files AT 10 Jan 24 10:35 GMT
+[INFO]: Starting encryption AT 10 Jan 24 10:35 GMT
+[INFO]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursive\testfiles\a.txt AT 10 Jan 24 10:35 GMT
+[INFO]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursive\testfiles\sub\b.txt AT 10 Jan 24 10:35 GMT
+[INFO]: Ending encryption AT 10 Jan 24 10:35 GMT
+[INFO]: Endinging test: EncryptDecryptDir AT 10 Jan 24 10:35 GMT
+[INFO]: Strating test: EncryptDecryptDir AT 10 Jan 24 10:43 GMT
+[INFO]: Start creating test files AT 10 Jan 24 10:43 GMT
+[INFO]: Starting encryption AT 10 Jan 24 10:43 GMT
+[INFO]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursive\testfiles\a.txt AT 10 Jan 24 10:43 GMT
+[INFO]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursive\testfiles\sub\b.txt AT 10 Jan 24 10:43 GMT
+[INFO]: Ending encryption AT 10 Jan 24 10:43 GMT
+[INFO]: Endinging test: EncryptDecryptDir AT 10 Jan 24 10:43 GMT
+[INFO]: Strating test: EncryptDecryptDir AT 10 Jan 24 10:45 GMT
+[INFO]: Start creating test files AT 10 Jan 24 10:45 GMT
+[INFO]: Starting encryption AT 10 Jan 24 10:45 GMT
+[INFO]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursive\testfiles\a.txt AT 10 Jan 24 10:45 GMT
+[INFO]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursive\testfiles\sub\b.txt AT 10 Jan 24 10:45 GMT
+[INFO]: Ending encryption AT 10 Jan 24 10:45 GMT
+[INFO]: Endinging test: EncryptDecryptDir AT 10 Jan 24 10:45 GMT
+[INFO]: Strating test: EncryptDecryptDir AT 10 Jan 24 14:01 GMT
+[INFO]: Start creating test files AT 10 Jan 24 14:01 GMT
+[INFO]: Starting encryption AT 10 Jan 24 14:01 GMT
+[INFO]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursive\testfiles\a.txt AT 10 Jan 24 14:01 GMT
+[INFO]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursive\testfiles\sub\b.txt AT 10 Jan 24 14:01 GMT
+[INFO]: Ending encryption AT 10 Jan 24 14:01 GMT
+[INFO]: Endinging test: EncryptDecryptDir AT 10 Jan 24 14:01 GMT
+[INFO]: Strating test: EncryptDecryptDir AT 10 Jan 24 14:12 GMT
+[INFO]: Start creating test files AT 10 Jan 24 14:12 GMT
+[INFO]: Starting encryption AT 10 Jan 24 14:12 GMT
+[INFO]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursive\testfiles\c.txt AT 10 Jan 24 14:12 GMT
+[INFO]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursive\testfiles\sub\b.txt AT 10 Jan 24 14:12 GMT
+[INFO]: Ending encryption AT 10 Jan 24 14:12 GMT
+[INFO]: Endinging test: EncryptDecryptDir AT 10 Jan 24 14:12 GMT
+[INFO]: Strating test: EncryptDecryptDir AT 10 Jan 24 14:41 GMT
+[INFO]: Start creating test files AT 10 Jan 24 14:41 GMT
+[INFO]: Starting encryption AT 10 Jan 24 14:41 GMT
+[INFO]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursive\testfiles\c.txt AT 10 Jan 24 14:41 GMT
+[INFO]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursive\testfiles\sub\b.txt AT 10 Jan 24 14:41 GMT
+[INFO]: Ending encryption AT 10 Jan 24 14:41 GMT
+[INFO]: Endinging test: EncryptDecryptDir AT 10 Jan 24 14:41 GMT
+[INFO]: Strating test: EncryptDecryptDir AT 10 Jan 24 14:54 GMT
+[INFO]: Start creating test files AT 10 Jan 24 14:54 GMT
+[INFO]: Starting encryption AT 10 Jan 24 14:54 GMT
+[INFO]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursive\testfiles\c.txt AT 10 Jan 24 14:54 GMT
+[INFO]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursive\testfiles\sub\b.txt AT 10 Jan 24 14:54 GMT
+[INFO]: Ending encryption AT 10 Jan 24 14:54 GMT
+[INFO]: Endinging test: EncryptDecryptDir AT 10 Jan 24 14:54 GMT
+[INFO]: Strating test: EncryptDecryptDir AT 10 Jan 24 15:05 GMT
+[INFO]: Start creating test files AT 10 Jan 24 15:05 GMT
+[INFO]: Starting encryption AT 10 Jan 24 15:05 GMT
+[INFO]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursive\testfiles\c.txt AT 10 Jan 24 15:05 GMT
+[INFO]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursive\testfiles\sub\b.txt AT 10 Jan 24 15:05 GMT
+[INFO]: Ending encryption AT 10 Jan 24 15:05 GMT
+[INFO]: Endinging test: EncryptDecryptDir AT 10 Jan 24 15:05 GMT
+[INFO]: Strating test: EncryptDecryptDir AT 10 Jan 24 15:07 GMT
+[INFO]: Start creating test files AT 10 Jan 24 15:07 GMT
+[INFO]: Starting encryption AT 10 Jan 24 15:07 GMT
+[INFO]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursive\testfiles\c.txt AT 10 Jan 24 15:07 GMT
+[INFO]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursive\testfiles\sub\b.txt AT 10 Jan 24 15:07 GMT
+[INFO]: Ending encryption AT 10 Jan 24 15:07 GMT
+[INFO]: Endinging test: EncryptDecryptDir AT 10 Jan 24 15:07 GMT

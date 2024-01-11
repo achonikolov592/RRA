@@ -1,0 +1,31 @@
+
+Starting test: EicarTest
+
+Error: open ./out1.txt: Operation did not complete successfully because the file contains a virus or potentially unwanted software.
+
+Starting test: EicarTest
+
+Error: open ./out1.txt: The system cannot find the file specified.
+[INFO]: Starting test: EicarTest AT 10 Jan 24 10:34 GMT
+[ERROR]: open ./out1.txt: The system cannot find the file specified. AT 10 Jan 24 10:34 GMT
+[INFO]: Starting test: EicarTest AT 10 Jan 24 10:41 GMT
+[ERROR]: open ./out1.txt: The system cannot find the file specified. AT 10 Jan 24 10:41 GMT
+[INFO]: Starting test: EicarTest AT 10 Jan 24 10:42 GMT
+[ERROR]: open ./out1.txt: The system cannot find the file specified. AT 10 Jan 24 10:42 GMT
+[INFO]: Starting test: EicarTest AT 10 Jan 24 10:43 GMT
+[ERROR]: open ./out1.txt: The system cannot find the file specified. AT 10 Jan 24 10:43 GMT
+[INFO]: Starting test: EicarTest AT 10 Jan 24 10:45 GMT
+[ERROR]: open ./out1.txt: The system cannot find the file specified. AT 10 Jan 24 10:45 GMT
+[INFO]: Starting test: EicarTest AT 10 Jan 24 14:11 GMT
+[ERROR]: open ./out1.txt: The system cannot find the file specified. AT 10 Jan 24 14:11 GMT
+[INFO]: Starting test: EicarTest AT 10 Jan 24 14:12 GMT
+[ERROR]: open ./out1.txt: The system cannot find the file specified. AT 10 Jan 24 14:12 GMT
+[INFO]: Starting test: EicarTest AT 10 Jan 24 14:41 GMT
+[INFO]: Starting test: EicarTest AT 10 Jan 24 14:54 GMT
+[ERROR]: open ./out1.txt: The system cannot find the file specified. AT 10 Jan 24 14:54 GMT
+[INFO]: Starting test: EicarTest AT 10 Jan 24 15:04 GMT
+[ERROR]: open ./out1.txt: The system cannot find the file specified. AT 10 Jan 24 15:04 GMT
+[INFO]: Starting test: EicarTest AT 10 Jan 24 15:07 GMT
+[ERROR]: open ./out1.txt: The system cannot find the file specified. AT 10 Jan 24 15:07 GMT
+[INFO]: Starting test: EicarTest AT 11 Jan 24 07:05 GMT
+[ERROR]: open ./out1.txt: The system cannot find the file specified. AT 11 Jan 24 07:05 GMT

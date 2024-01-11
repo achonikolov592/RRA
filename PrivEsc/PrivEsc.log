@@ -1,0 +1,43 @@
+
+
+The operation completed successfully.
+
+A required privilege is not held by the client.
+
+The operation completed successfully.
+
+The handle is invalid.
+
+The operation completed successfully.
+
+The operation completed successfully.
+
+A required privilege is not held by the client.
+
+The operation completed successfully.
+
+The parameter is incorrect.
+
+The parameter is incorrect.
+
+The parameter is incorrect.
+
+A required privilege is not held by the client.
+[INFO]: Ending Test: EscalateToken AT 10 Jan 24 10:28 GMT
+[ERROR]: A required privilege is not held by the client. AT 10 Jan 24 10:28 GMT
+[INFO]: Ending Test: EscalateToken AT 10 Jan 24 10:35 GMT
+[ERROR]: The parameter is incorrect. AT 10 Jan 24 10:35 GMT
+[INFO]: Ending Test: EscalateToken AT 10 Jan 24 10:44 GMT
+[ERROR]: The parameter is incorrect. AT 10 Jan 24 10:44 GMT
+[INFO]: Ending Test: EscalateToken AT 10 Jan 24 10:46 GMT
+[ERROR]: A required privilege is not held by the client. AT 10 Jan 24 10:46 GMT
+[INFO]: Ending Test: EscalateToken AT 10 Jan 24 14:03 GMT
+[ERROR]: A required privilege is not held by the client. AT 10 Jan 24 14:03 GMT
+[INFO]: Ending Test: EscalateToken AT 10 Jan 24 14:13 GMT
+[ERROR]: A required privilege is not held by the client. AT 10 Jan 24 14:13 GMT
+[INFO]: Ending Test: EscalateToken AT 10 Jan 24 15:05 GMT
+[ERROR]: A required privilege is not held by the client. AT 10 Jan 24 15:05 GMT
+[INFO]: Ending Test: EscalateToken AT 10 Jan 24 15:07 GMT
+[ERROR]: A required privilege is not held by the client. AT 10 Jan 24 15:07 GMT
+[INFO]: Ending Test: EscalateToken AT 11 Jan 24 07:07 GMT
+[ERROR]: A required privilege is not held by the client. AT 11 Jan 24 07:07 GMT

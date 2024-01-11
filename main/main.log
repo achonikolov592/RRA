@@ -1,0 +1,35 @@
+
+[ERROR]: exit status 8 from ArchiveFiles.exe AT 10 Jan 24 10:41 GMT
+[ERROR]: exit status 8 from ArchiveFiles.exe AT 10 Jan 24 10:42 GMT
+[ERROR]: exit status 8 from ArchiveFiles.exe AT 10 Jan 24 10:43 GMT
+[ERROR]: exit status 2 from EncryptDecryptDirRecursivePartially.exe AT 10 Jan 24 10:43 GMT
+[ERROR]: exit status 8 from SecureDeleteFiles.exe AT 10 Jan 24 10:44 GMT
+[ERROR]: fork/exec C:/Users/achon/OneDrive/Desktop/diplomna1/RRA/ServiceCreation/ServiceCreation.exe: The requested operation requires elevation. from ServiceCreation.exe AT 10 Jan 24 10:44 GMT
+[ERROR]: exit status 6 from AccsTok.exe AT 10 Jan 24 10:44 GMT
+[ERROR]: exit status 8 from ArchiveFiles.exe AT 10 Jan 24 10:45 GMT
+[ERROR]: exit status 8 from SecureDeleteFiles.exe AT 10 Jan 24 10:45 GMT
+[ERROR]: fork/exec C:/Users/achon/OneDrive/Desktop/diplomna1/RRA/ServiceCreation/ServiceCreation.exe: The requested operation requires elevation. from ServiceCreation.exe AT 10 Jan 24 10:46 GMT
+[ERROR]: fork/exec C:/Users/achon/OneDrive/Desktop/diplomna1/RRA/ArchiveFiles/ArchiveFiles.exe: Operation did not complete successfully because the file contains a virus or potentially unwanted software. from ArchiveFiles.exe AT 10 Jan 24 14:01 GMT
+[ERROR]: fork/exec C:/Users/achon/OneDrive/Desktop/diplomna1/RRA/Eicar/Eic.exe: Operation did not complete successfully because the file contains a virus or potentially unwanted software. from Eic.exe AT 10 Jan 24 14:01 GMT
+[ERROR]: fork/exec C:/Users/achon/OneDrive/Desktop/diplomna1/RRA/EncryptDecryptDirRecursivePartially/EncryptDecryptDirRecursivePartially.exe: Operation did not complete successfully because the file contains a virus or potentially unwanted software. from EncryptDecryptDirRecursivePartially.exe AT 10 Jan 24 14:02 GMT
+[ERROR]: exit status 8 from SecureDeleteFiles.exe AT 10 Jan 24 14:02 GMT
+[ERROR]: fork/exec C:/Users/achon/OneDrive/Desktop/diplomna1/RRA/MaliciousPayloadDownload/MaliciousPayloadDownload.exe: Operation did not complete successfully because the file contains a virus or potentially unwanted software. from MaliciousPayloadDownload.exe AT 10 Jan 24 14:02 GMT
+[ERROR]: fork/exec C:/Users/achon/OneDrive/Desktop/diplomna1/RRA/ServiceCreation/ServiceCreation.exe: The requested operation requires elevation. from ServiceCreation.exe AT 10 Jan 24 14:03 GMT
+[ERROR]: exit status 6 from ArchiveFiles.exe AT 10 Jan 24 14:11 GMT
+[ERROR]: exit status 6 from ArchiveFiles.exe AT 10 Jan 24 14:12 GMT
+[ERROR]: exit status 8 from SecureDeleteFiles.exe AT 10 Jan 24 14:13 GMT
+[ERROR]: fork/exec C:/Users/achon/OneDrive/Desktop/diplomna1/RRA/ServiceCreation/ServiceCreation.exe: The requested operation requires elevation. from ServiceCreation.exe AT 10 Jan 24 14:13 GMT
+[ERROR]: exit status 6 from ArchiveFiles.exe AT 10 Jan 24 14:41 GMT
+[ERROR]: exit status 3 from Eic.exe AT 10 Jan 24 14:41 GMT
+[ERROR]: exit status 6 from ArchiveFiles.exe AT 10 Jan 24 14:54 GMT
+[ERROR]: exit status 6 from ArchiveFiles.exe AT 10 Jan 24 15:04 GMT
+[ERROR]: exit status 8 from SecureDeleteFiles.exe AT 10 Jan 24 15:05 GMT
+[ERROR]: fork/exec C:/Users/achon/OneDrive/Desktop/diplomna1/RRA/ServiceCreation/ServiceCreation.exe: The requested operation requires elevation. from ServiceCreation.exe AT 10 Jan 24 15:05 GMT
+[ERROR]: fork/exec C:/Users/achon/OneDrive/Desktop/diplomna1/RRA/ServiceCreation/ServiceCreation.exe: The requested operation requires elevation. from ServiceCreation.exe AT 10 Jan 24 15:05 GMT
+[ERROR]: exit status 6 from ArchiveFiles.exe AT 10 Jan 24 15:07 GMT
+[ERROR]: exit status 8 from SecureDeleteFiles.exe AT 10 Jan 24 15:07 GMT
+[ERROR]: fork/exec C:/Users/achon/OneDrive/Desktop/diplomna1/RRA/ServiceCreation/ServiceCreation.exe: The requested operation requires elevation. from ServiceCreation.exe AT 10 Jan 24 15:07 GMT
+[ERROR]: exit status 8 from ArchiveFiles.exe AT 11 Jan 24 07:05 GMT
+[ERROR]: fork/exec C:/Users/achon/OneDrive/Desktop/diplomna1/RRA/EncryptDecryptDirRecursive/EncryptDecryptDirRecursive.exe: Operation did not complete successfully because the file contains a virus or potentially unwanted software. from EncryptDecryptDirRecursive.exe AT 11 Jan 24 07:05 GMT
+[ERROR]: exit status 8 from SecureDeleteFiles.exe AT 11 Jan 24 07:06 GMT
+[ERROR]: fork/exec C:/Users/achon/OneDrive/Desktop/diplomna1/RRA/ServiceCreation/ServiceCreation.exe: The requested operation requires elevation. from ServiceCreation.exe AT 11 Jan 24 07:06 GMT

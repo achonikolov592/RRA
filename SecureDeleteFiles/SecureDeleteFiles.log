@@ -1,0 +1,38 @@
+
+Start creating test files
+
+Start creating test files
+
+Start creating test files
+
+Start creating test files
+
+Start creating test files
+
+Starting test: SecureDeleteFiles
+
+Error: remove C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\SecureDeleteFiles\testfiles\a.txt: The process cannot access the file because it is being used by another process.
+[INFO]: Start creating test files AT 10 Jan 24 10:35 GMT
+[INFO]: Starting test: SecureDeleteFiles AT 10 Jan 24 10:35 GMT
+[ERROR]: remove C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\SecureDeleteFiles\testfiles\a.txt: The process cannot access the file because it is being used by another process. AT 10 Jan 24 10:35 GMT
+[INFO]: Start creating test files AT 10 Jan 24 10:44 GMT
+[INFO]: Starting test: SecureDeleteFiles AT 10 Jan 24 10:44 GMT
+[ERROR]: remove C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\SecureDeleteFiles\testfiles\a.txt: The process cannot access the file because it is being used by another process. AT 10 Jan 24 10:44 GMT
+[INFO]: Start creating test files AT 10 Jan 24 10:45 GMT
+[INFO]: Starting test: SecureDeleteFiles AT 10 Jan 24 10:45 GMT
+[ERROR]: remove C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\SecureDeleteFiles\testfiles\a.txt: The process cannot access the file because it is being used by another process. AT 10 Jan 24 10:45 GMT
+[INFO]: Start creating test files AT 10 Jan 24 14:02 GMT
+[INFO]: Starting test: SecureDeleteFiles AT 10 Jan 24 14:02 GMT
+[ERROR]: remove C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\SecureDeleteFiles\testfiles\a.txt: The process cannot access the file because it is being used by another process. AT 10 Jan 24 14:02 GMT
+[INFO]: Start creating test files AT 10 Jan 24 14:13 GMT
+[INFO]: Starting test: SecureDeleteFiles AT 10 Jan 24 14:13 GMT
+[ERROR]: remove C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\SecureDeleteFiles\testfiles\c.txt: The process cannot access the file because it is being used by another process. AT 10 Jan 24 14:13 GMT
+[INFO]: Start creating test files AT 10 Jan 24 15:05 GMT
+[INFO]: Starting test: SecureDeleteFiles AT 10 Jan 24 15:05 GMT
+[ERROR]: remove C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\SecureDeleteFiles\testfiles\c.txt: The process cannot access the file because it is being used by another process. AT 10 Jan 24 15:05 GMT
+[INFO]: Start creating test files AT 10 Jan 24 15:07 GMT
+[INFO]: Starting test: SecureDeleteFiles AT 10 Jan 24 15:07 GMT
+[ERROR]: remove C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\SecureDeleteFiles\testfiles\c.txt: The process cannot access the file because it is being used by another process. AT 10 Jan 24 15:07 GMT
+[INFO]: Start creating test files AT 11 Jan 24 07:06 GMT
+[INFO]: Starting test: SecureDeleteFiles AT 11 Jan 24 07:06 GMT
+[ERROR]: remove C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\SecureDeleteFiles\testfiles\c.txt: The process cannot access the file because it is being used by another process. AT 11 Jan 24 07:06 GMT

@@ -1,0 +1,46 @@
+
+Strating test : StartupFolderNewFile
+
+Start creating test files
+
+Error: open C:/Users/achon/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/StartupFolderNewFile/a.exe: The system cannot find the path specified.
+
+Strating test : StartupFolderNewFile
+
+Start creating test files
+
+Strating test : StartupFolderNewFile
+
+Start creating test files
+
+Error: exit status 1
+
+Strating test : StartupFolderNewFile
+
+Start creating test files
+
+Ending test: StartupFolderNewFile
+[INFO]: Strating test : StartupFolderNewFile AT 10 Jan 24 10:35 GMT
+[INFO]: Start creating test files AT 10 Jan 24 10:35 GMT
+[INFO]: Ending test: StartupFolderNewFile AT 10 Jan 24 10:35 GMT
+[INFO]: Strating test : StartupFolderNewFile AT 10 Jan 24 10:44 GMT
+[INFO]: Start creating test files AT 10 Jan 24 10:44 GMT
+[INFO]: Ending test: StartupFolderNewFile AT 10 Jan 24 10:44 GMT
+[INFO]: Strating test : StartupFolderNewFile AT 10 Jan 24 10:45 GMT
+[INFO]: Start creating test files AT 10 Jan 24 10:45 GMT
+[INFO]: Ending test: StartupFolderNewFile AT 10 Jan 24 10:45 GMT
+[INFO]: Strating test : StartupFolderNewFile AT 10 Jan 24 14:02 GMT
+[INFO]: Start creating test files AT 10 Jan 24 14:02 GMT
+[INFO]: Ending test: StartupFolderNewFile AT 10 Jan 24 14:02 GMT
+[INFO]: Strating test : StartupFolderNewFile AT 10 Jan 24 14:13 GMT
+[INFO]: Start creating test files AT 10 Jan 24 14:13 GMT
+[INFO]: Ending test: StartupFolderNewFile AT 10 Jan 24 14:13 GMT
+[INFO]: Strating test : StartupFolderNewFile AT 10 Jan 24 15:05 GMT
+[INFO]: Start creating test files AT 10 Jan 24 15:05 GMT
+[INFO]: Ending test: StartupFolderNewFile AT 10 Jan 24 15:05 GMT
+[INFO]: Strating test : StartupFolderNewFile AT 10 Jan 24 15:07 GMT
+[INFO]: Start creating test files AT 10 Jan 24 15:07 GMT
+[INFO]: Ending test: StartupFolderNewFile AT 10 Jan 24 15:07 GMT
+[INFO]: Strating test : StartupFolderNewFile AT 11 Jan 24 07:06 GMT
+[INFO]: Start creating test files AT 11 Jan 24 07:06 GMT
+[INFO]: Ending test: StartupFolderNewFile AT 11 Jan 24 07:06 GMT

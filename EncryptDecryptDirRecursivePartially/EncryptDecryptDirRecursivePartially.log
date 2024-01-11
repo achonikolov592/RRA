@@ -1,0 +1,30 @@
+[INFO]: Start creating test files AT 10 Jan 24 10:45 GMT
+[INFO]: Strating test: EncryptDirPartially AT 10 Jan 24 10:45 GMT
+[ERROR]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursivePartially\testfiles\a.txt AT 10 Jan 24 10:45 GMT
+[ERROR]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursivePartially\testfiles\sub\b.txt AT 10 Jan 24 10:45 GMT
+[INFO]: Ending test: EncryptDecryptDirRecursivePartially AT 10 Jan 24 10:45 GMT
+[INFO]: Endinging test: EncryptDecryptDirPartially AT 10 Jan 24 10:45 GMT
+[INFO]: Start creating test files AT 10 Jan 24 14:13 GMT
+[INFO]: Strating test: EncryptDirPartially AT 10 Jan 24 14:13 GMT
+[ERROR]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursivePartially\testfiles\c.txt AT 10 Jan 24 14:13 GMT
+[ERROR]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursivePartially\testfiles\sub\b.txt AT 10 Jan 24 14:13 GMT
+[INFO]: Ending test: EncryptDecryptDirRecursivePartially AT 10 Jan 24 14:13 GMT
+[INFO]: Endinging test: EncryptDecryptDirPartially AT 10 Jan 24 14:13 GMT
+[INFO]: Start creating test files AT 10 Jan 24 15:05 GMT
+[INFO]: Strating test: EncryptDirPartially AT 10 Jan 24 15:05 GMT
+[ERROR]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursivePartially\testfiles\c.txt AT 10 Jan 24 15:05 GMT
+[ERROR]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursivePartially\testfiles\sub\b.txt AT 10 Jan 24 15:05 GMT
+[INFO]: Ending test: EncryptDecryptDirRecursivePartially AT 10 Jan 24 15:05 GMT
+[INFO]: Endinging test: EncryptDecryptDirPartially AT 10 Jan 24 15:05 GMT
+[INFO]: Start creating test files AT 10 Jan 24 15:07 GMT
+[INFO]: Strating test: EncryptDirPartially AT 10 Jan 24 15:07 GMT
+[ERROR]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursivePartially\testfiles\c.txt AT 10 Jan 24 15:07 GMT
+[ERROR]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursivePartially\testfiles\sub\b.txt AT 10 Jan 24 15:07 GMT
+[INFO]: Ending test: EncryptDecryptDirRecursivePartially AT 10 Jan 24 15:07 GMT
+[INFO]: Endinging test: EncryptDecryptDirPartially AT 10 Jan 24 15:07 GMT
+[INFO]: Start creating test files AT 11 Jan 24 07:05 GMT
+[INFO]: Strating test: EncryptDirPartially AT 11 Jan 24 07:05 GMT
+[ERROR]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursivePartially\testfiles\c.txt AT 11 Jan 24 07:05 GMT
+[ERROR]: Encrypted: C:\Users\achon\OneDrive\Desktop\diplomna1\RRA\EncryptDecryptDirRecursivePartially\testfiles\sub\b.txt AT 11 Jan 24 07:05 GMT
+[INFO]: Ending test: EncryptDecryptDirRecursivePartially AT 11 Jan 24 07:05 GMT
+[INFO]: Endinging test: EncryptDecryptDirPartially AT 11 Jan 24 07:05 GMT

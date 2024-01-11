@@ -1,0 +1,207 @@
+
+
+Start creating test files
+
+Starting test: ServiceCreation
+
+Installing service
+
+service EncrFile already exists
+
+Start creating test files
+
+Starting test: ServiceCreation
+
+Start creating test files
+
+Starting test: ServiceCreation
+
+Start creating test files
+
+Starting test: ServiceCreation
+
+Start creating test files
+
+Starting test: ServiceCreation
+
+Start creating test files
+
+Starting test: ServiceCreation
+
+Installing service
+
+Start creating test files
+
+Starting test: ServiceCreation
+
+Installing service
+
+service EncrFile already exists
+
+Start creating test files
+
+Starting test: ServiceCreation
+
+Encrypted: C:\Users\achon\onedrive\desktop\diplomna1\rra\ServiceCreation\testfiles\a.txt
+
+Encrypted: C:\Users\achon\onedrive\desktop\diplomna1\rra\ServiceCreation\testfiles\sub\b.txt
+
+Starting test: ServiceCreation
+
+Start creating test files
+
+Encrypted: C:\Users\achon\onedrive\desktop\diplomna1\rra\ServiceCreation\testfiles\a.txt
+
+Encrypted: C:\Users\achon\onedrive\desktop\diplomna1\rra\ServiceCreation\testfiles\sub\b.txt
+
+Starting test: ServiceCreation
+
+Starting test: ServiceCreation
+
+Start creating test files
+
+Encrypted: C:\Users\achon\onedrive\desktop\diplomna1\rra\ServiceCreation\testfiles\a.txt
+
+Encrypted: C:\Users\achon\onedrive\desktop\diplomna1\rra\ServiceCreation\testfiles\sub\b.txt
+
+Starting test: ServiceCreation
+
+Starting test: ServiceCreation
+
+Start creating test files
+
+Encrypted: C:\Users\achon\onedrive\desktop\diplomna1\rra\ServiceCreation\testfiles\a.txt
+
+Encrypted: C:\Users\achon\onedrive\desktop\diplomna1\rra\ServiceCreation\testfiles\sub\b.txt
+
+Starting test: ServiceCreation
+
+Starting test: ServiceCreation
+
+Start creating test files
+
+Encrypted: C:\Users\achon\onedrive\desktop\diplomna1\rra\ServiceCreation\testfiles\a.txt
+
+Encrypted: C:\Users\achon\onedrive\desktop\diplomna1\rra\ServiceCreation\testfiles\sub\b.txt
+
+Starting test: ServiceCreation
+
+The service has not been started.
+
+Starting test: ServiceCreation
+
+Starting test: ServiceCreation
+
+Starting test: ServiceCreation
+
+The service did not respond to the start or control request in a timely fashion.
+
+Invalid number of arguments!
+
+Starting test: ServiceCreation
+
+Installing service
+
+service EncrFile already exists
+
+Starting test: ServiceCreation
+
+Starting Encryption
+
+Start creating test files
+
+Encrypted: C:\Users\achon\onedrive\desktop\diplomna1\rra\ServiceCreation\testfiles\a.txt
+
+Encrypted: C:\Users\achon\onedrive\desktop\diplomna1\rra\ServiceCreation\testfiles\sub\b.txt
+
+Ending Encryption
+
+Starting Encryption
+
+Start creating test files
+
+Encrypted: C:\Users\achon\onedrive\desktop\diplomna1\rra\ServiceCreation\testfiles\a.txt
+
+Encrypted: C:\Users\achon\onedrive\desktop\diplomna1\rra\ServiceCreation\testfiles\sub\b.txt
+
+Ending Encryption
+
+Starting Encryption
+
+Start creating test files
+
+Encrypted: C:\Users\achon\onedrive\desktop\diplomna1\rra\ServiceCreation\testfiles\a.txt
+
+Encrypted: C:\Users\achon\onedrive\desktop\diplomna1\rra\ServiceCreation\testfiles\sub\b.txt
+
+Ending Encryption
+
+Starting test: ServiceCreation
+
+Uninstalling service
+
+Uninstalled service
+
+Starting test: ServiceCreation
+
+Installing service
+
+Installed service
+
+Starting test: ServiceCreation
+
+Starting test: ServiceCreation
+
+Installing service
+
+service EncrFile already exists
+
+Starting test: ServiceCreation
+
+The service did not respond to the start or control request in a timely fashion.
+
+Starting test: ServiceCreation
+
+Installing service
+
+service EncrFile already exists
+
+Starting test: ServiceCreation
+
+Starting Encryption
+
+Start creating test files
+
+Encrypted: C:\Users\achon\onedrive\desktop\diplomna1\rra\ServiceCreation\testfiles\a.txt
+
+Encrypted: C:\Users\achon\onedrive\desktop\diplomna1\rra\ServiceCreation\testfiles\sub\b.txt
+
+Ending Encryption
+
+Starting Encryption
+
+Start creating test files
+
+Encrypted: C:\Users\achon\onedrive\desktop\diplomna1\rra\ServiceCreation\testfiles\a.txt
+
+Encrypted: C:\Users\achon\onedrive\desktop\diplomna1\rra\ServiceCreation\testfiles\sub\b.txt
+
+Ending Encryption
+
+Starting Encryption
+
+Start creating test files
+
+Encrypted: C:\Users\achon\onedrive\desktop\diplomna1\rra\ServiceCreation\testfiles\a.txt
+
+Encrypted: C:\Users\achon\onedrive\desktop\diplomna1\rra\ServiceCreation\testfiles\sub\b.txt
+
+Ending Encryption
+
+The service has not been started.
+
+Starting test: ServiceCreation
+
+Uninstalling service
+
+Uninstalled service
